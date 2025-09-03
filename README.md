@@ -119,12 +119,12 @@ I build custom web scrapers for:
 
 - Lead generation agencies
 
-<br>
-* **BASIC SCRAPER:** 50€ (NO EXTRAS)<br>
-* **PROFESSIONAL LEVEL SCRAPER:** 100€ (WITH THE LISTED EXTRAS)<br>
-* **PREMIUM EDITION SCRAPER:** 100€-500€ (LISTED EXTRAS + CUSTOM CLIENT REQUESTED FEATURES)<br>
+## 💰 Bundle Prices
+- **BASIC SCRAPER:** 50€ (NO EXTRAS)<br>
+- **PROFESSIONAL LEVEL SCRAPER:** 100€ (WITH THE LISTED EXTRAS)<br>
+- **PREMIUM EDITION SCRAPER:** 100€-500€ (LISTED EXTRAS + CUSTOM CLIENT REQUESTED FEATURES)<br>
 
-👉 Reach me on:<br>
+## 👉 Reach me on:<br>
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanuelreyrojas)
   | [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0139afec838e1b0e09)
   | [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/s/GzWLpwL) 
@@ -138,6 +138,7 @@ I build custom web scrapers for:
 This demo is provided for educational and portfolio purposes, it is not intended for scraping sites against their Terms of Service.
   
   
+
 
 
 
