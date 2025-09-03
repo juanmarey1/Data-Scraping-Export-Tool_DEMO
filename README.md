@@ -2,7 +2,7 @@
 
 This is a flexible and easy to use **web scraping tool** built in Python.
 This repo is just the **demo** of my scraping tool, created with the purpose of learning, testing and showing the capabilities of the tool.
-With just one command, scrape structured data and export it to the format you prefer
+With just one command, scrape structured data and export it to the format you prefer.
 
 ![Demo Screenshot](examples/screenshot.png) 
 
@@ -137,4 +137,5 @@ This demo is provided for educational and portfolio purposes.
 Not intended for scraping sites against their Terms of Service.
   
   
+
 
