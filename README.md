@@ -123,20 +123,21 @@ I build custom web scrapers for:
 -- PROFESSIONAL LEVEL SCRAPER: 100€ (WITH THE LISTED EXTRAS)
 -- PREMIUM EDITION SCRAPER: 100€-500€ (LISTED EXTRAS + CUSTOM CLIENT REQUESTED FEATURES)
 
-👉 Reach me on 
+👉 Reach me on:<br>
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanuelreyrojas)
   | [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~0139afec838e1b0e09)
   | [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://es.fiverr.com/s/GzWLpwL) 
   | [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jumareyrojas1@gmail.com)
+  |
 
 ---
 
 ## 📜 License
 
-This demo is provided for educational and portfolio purposes.
-Not intended for scraping sites against their Terms of Service.
+This demo is provided for educational and portfolio purposes, it is not intended for scraping sites against their Terms of Service.
   
   
+
 
 
 
