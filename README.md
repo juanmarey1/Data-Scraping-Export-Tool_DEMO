@@ -48,7 +48,7 @@ With just one command, scrape structured data and export it to the format you pr
 - ✅ Proxy rotation
   
 
-📩 Contact me for the full tool or custom scrapers (Amazon, LinkedIn, competitor monitoring, lead generation).
+📩 Contact me for the full tool or custom scrapers (Amazon, LinkedIn, competitor monitoring, lead generation).<br>
 **NOTE: CUSTOM FEATURES CAN BE ADDED TO THE FINAL PRODUCT IN ORDER TO MEET THE CLIENTS NEEDS. THESE ARE JUST A LIST OF FEATURES ALREADY INCLUDED IN THE PREMIUM VERSION OF THE PRODUCT**
 
 ---
@@ -137,5 +137,6 @@ This demo is provided for educational and portfolio purposes.
 Not intended for scraping sites against their Terms of Service.
   
   
+
 
 
