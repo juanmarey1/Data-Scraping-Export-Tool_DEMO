@@ -14,8 +14,8 @@ With just one command, scrape structured data and export it to the format you pr
 - ⚙️ **Configurable fields** via `config.json` (set which elements to extract).
 - 🧭 **Smart scraping** with Selenium + BeautifulSoup.
 - 🎯 **Output Options**: CSV / Excel.
-- 🔄 **Retries** → Automatically retries failed pages up to 2 times.
-- 📑 **Skipped URLs log** → URLs that couldn’t be scraped are saved to `skipped.txt`.
+- 🔄 **Retries** → Automatically retries failed pages a customizable number of times.
+- 📑 **Skipped URLs log** → URLs that couldn’t be scraped are saved to `skipped_report.csv`.
 - 🕶 **Headless Mode** → Run without opening the browser.
 - 🎲 **Random User-Agent Rotation** → Helps reduce detection.
 
@@ -137,3 +137,4 @@ This demo is provided for educational and portfolio purposes.
 Not intended for scraping sites against their Terms of Service.
   
   
+
