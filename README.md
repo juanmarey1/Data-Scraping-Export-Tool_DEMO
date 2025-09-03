@@ -119,9 +119,9 @@ I build custom web scrapers for:
 
 - Lead generation agencies
 
-<br>-- BASIC SCRAPER (NO EXTRAS): 50€<br>
--- PROFESSIONAL LEVEL SCRAPER: 100€ (WITH THE LISTED EXTRAS)<br>
--- PREMIUM EDITION SCRAPER: 100€-500€ (LISTED EXTRAS + CUSTOM CLIENT REQUESTED FEATURES)<br>
+<br>* **BASIC SCRAPER:** 50€ (NO EXTRAS)<br>
+* **PROFESSIONAL LEVEL SCRAPER:** 100€ (WITH THE LISTED EXTRAS)<br>
+* **PREMIUM EDITION SCRAPER: 100€-500€ (LISTED EXTRAS + CUSTOM CLIENT REQUESTED FEATURES)**<br>
 
 👉 Reach me on:<br>
   | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanuelreyrojas)
@@ -137,6 +137,7 @@ I build custom web scrapers for:
 This demo is provided for educational and portfolio purposes, it is not intended for scraping sites against their Terms of Service.
   
   
+
 
 
 
