@@ -1,0 +1,41 @@
+{
+    "headless": true,
+    "proxy": "",
+    "retries": 3,
+    "fields": {
+        "title": "title",
+        "price": ".a-price-whole",
+        "reviews": "#acrCustomerReviewText"
+    },
+    "user_agents": [
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.6533.120 Safari/537.36"
+    ],
+    "login": {
+        "enabled": false,
+        "url": "https://example.com/login",
+        "username_field": "#username",
+        "password_field": "#password",
+        "username": "your_username",
+        "password": "your_password"
+    },
+    "google": {
+        "enabled": false,
+        "credentials": "client_secret.json",
+        "sheet_name": "ScraperOutput",
+        "worksheet": "Sheet1"
+    },
+    "database": {
+        "enabled": false,
+        "type": "sqlite",
+        "name": "scraper.db",
+        "table": "products"
+    },
+    "api": {
+        "enabled": false,
+        "url": "https://example.com/api/upload",
+        "headers": {
+            "Authorization": "Bearer YOUR_TOKEN"
+        }
+    }
+}
