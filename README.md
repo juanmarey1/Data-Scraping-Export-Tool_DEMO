@@ -1,4 +1,4 @@
-# WEB DATA SCRAPING (DEMO VERSION)
+# WEB DATA SCRAPING TOOL (DEMO VERSION)
 
 This is a flexible and easy to use **web scraping tool** built in Python.
 This repo is just the **demo** of my scraping tool, created with the purpose of learning, testing and showing the capabilities of the tool.
@@ -138,6 +138,7 @@ I build custom web scrapers for:
 This demo is provided for educational and portfolio purposes, it is not intended for scraping sites against their Terms of Service.
   
   
+
 
 
 
